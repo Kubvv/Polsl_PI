@@ -1,0 +1,8 @@
+1b) (0) + (1) -> (Ad) //Rozkaz wykonywalny tylko na maszynie W+
+wyak weja ode weak //(Ak) − (Ak) -> Ak
+wyak sa wel wea //(Ak) -> A, (Ak) -> L
+czyt wys weja przep weak il // ((A)) -> Ak, (L) + 1 -> L
+wyl wea // (L) -> A
+czyt wys weja dod weak // (Ak) + ((A)) -> Ak  
+wyad wea wyak wes // (Ad) -> A, (Ak) -> S
+pisz

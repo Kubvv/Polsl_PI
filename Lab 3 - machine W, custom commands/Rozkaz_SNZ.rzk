@@ -1,0 +1,5 @@
+ROZKAZ SNZ; //Je¿eli (Ak) != 0 to (Ad) -> L wpp (L) + 1 -> L  
+czyt wys wei il; // ((A)) -> I, (L) + 1 -> L
+JE¯ELI ZAK TO @zero GDY NIE @niezero; // (Ak) = 0 ? @zero : @niezero
+@zero wyl wea KONIEC; //(L) -> A
+@niezero wyad wel wea;  //(Ad) -> A, (Ad) -> L 

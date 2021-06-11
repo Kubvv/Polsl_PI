@@ -1,0 +1,5 @@
+NWW - Obliczyć NWW dwóch liczb naturalnych podanych w pamięci pod adresem symbolicznym A i B.
+
+MAXTAB - Wyznaczyć największy element w N-elementowej tablicy TAB podanej w pamięci
+
+MnoNat - Obliczyć sumę kwadratów N kolejnych liczb naturalnych dla danej wartości N, używając podprogramu mnożącego dwie podane liczby naturalne. 
