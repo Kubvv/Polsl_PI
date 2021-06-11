@@ -1,0 +1,14 @@
+1. Zmodyfikować nieprzerywalne rozkazy WYP i WPR (lista rozkazów do obsługi przerwań) tak, by możliwe było ich przerywanie. 
+
+2.  Napisać program rysujący na urządzeniu wyjściowym kwadrat z użyciem symbolu % o wymiarach 10 x 10.
+
+Program ma obsługiwać przerwania w regulaminie niewywłaszczalnym i w momencie obsługi przerwania na urządzenie wyjściowe należy wpisać cyfrę odpowiadającą numerowi przerwania. Program ma się zakończyć po zgłoszeniu przerwania nr 1, tj. zakończyć rysowanie figury nawet jeśli nie została jeszcze cała narysowana.
+
+3. Napisz program wypisujący na urządzenie wyjściowe symbol % w pętli nieskończonej. Program ma obsługiwać przerwania w regulaminie wywłaszczalnym i w momencie zgłoszenia przerwania wypisywał na urządzenie wyjściowe 2krótność numeru przerwania, np. dla przerwania nr 3 na urządzeniu wyjściowym należy wypisać 6razy cyfrę 3: 333333.
+
+Program ma się kończyć po:
+
+3krotnym zgłoszeniu przerwania nr 1 lub
+3krotnym zgłoszeniu przerwania nr 2 lub
+6krotnym zgłoszeniu przerwania nr 3 lub
+6krotnym zgłoszeniu przerwania nr 4.

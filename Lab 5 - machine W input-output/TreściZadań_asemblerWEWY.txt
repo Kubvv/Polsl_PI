@@ -1,0 +1,9 @@
+1. W pętli pobierać z Urządzenia Zewnętrznego znaki aż do napotkania czwartego symbolu *.
+
+2. W przypadku wielkich liter z zakresu A - G wpisać je do tablicy (pozostałe symbole pominąć). Wypisać na wyjście liczbę tych liter (długość tablicy).
+
+3. Policzyć liczbę wystąpień w utworzonej tablicy liter A oraz C i wypisać na wyjście powielone literki w formacie:
+
+A A ….A //liczba powtórzeń jest równa liczbie wystąpień
+
+C C … C
